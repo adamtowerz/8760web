@@ -35,7 +35,7 @@
   box-sizing: border-box;
   background: transparent;
   border: black 4px dotted;
-  color: darkgray;
+  color: black;
   cursor: not-allowed;
 }
 
