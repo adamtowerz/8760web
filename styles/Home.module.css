@@ -17,6 +17,28 @@
   align-items: center;
 }
 
+.main p {
+  margin-top: 3rem;
+}
+
+.main a {
+  background: black;
+  padding: 4px 8px;
+  margin: 8px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  border: 4px black solid;
+}
+
+.main a.disabled {
+  box-sizing: border-box;
+  background: transparent;
+  border: black 4px dotted;
+  color: darkgray;
+  cursor: not-allowed;
+}
+
 .footer {
   width: 100%;
   height: 100px;

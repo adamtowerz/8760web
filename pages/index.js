@@ -23,6 +23,12 @@ export default function Home() {
       <main className={styles.main}>
         <img src="/Icon.svg" className={styles.logo} />
         <h1 className={styles.title}>8760</h1>
+        <p>
+          <a className={styles.disabled} href="/#">
+            Alpha coming soon
+          </a>
+          <a href="https://airtable.com/shrbtsb8zwzLw85Yj">Feedback</a>
+        </p>
       </main>
 
       <footer className={styles.footer}>
