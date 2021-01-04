@@ -13,6 +13,7 @@ export default function Home() {
           content="Make every hour count, built for iOS"
         />
         <meta property="og:site_name" content="8760 App" />
+        <meta property="og:image" content="/ogimage.ong"></meta>
         <meta property="og:author" content="Adam Towers" />
         <meta name="twitter:card" content="summary" />
         <meta property="twitter:site" content="@adamtowerz" />
