@@ -6,7 +6,7 @@ export default function Privacy() {
     <div className={styles.container}>
       <Head>
         <title>8760 App</title>
-        <link rel="icon" href="/Icon.svg" />
+        <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="8760 App | Privacy" />
         <meta
           property="description"

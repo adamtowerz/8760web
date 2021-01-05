@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>8760 App</title>
-        <link rel="icon" href="/Icon.svg" />
+        <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="8760 App" />
         <meta
           property="description"
