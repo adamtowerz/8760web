@@ -24,10 +24,8 @@ export default function Home() {
         <img src="/Icon.svg" className={styles.logo} />
         <h1 className={styles.title}>8760</h1>
         <p>
-          <a className={styles.disabled} href="/#">
-            Alpha coming soon
-          </a>
-          <a href="https://airtable.com/shrbtsb8zwzLw85Yj">Feedback</a>
+          <a href="https://airtable.com/shrIVAtRTBQg2vJG4">Join the Alpha</a>
+          <a href="https://airtable.com/shrbtsb8zwzLw85Yj">Send Feedback</a>
         </p>
       </main>
 
