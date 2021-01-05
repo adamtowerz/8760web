@@ -6,14 +6,17 @@ export default function Privacy() {
     <div className={styles.container}>
       <Head>
         <title>8760 App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://8760app.com/favicon.ico" />
         <meta property="og:title" content="8760 App | Privacy" />
         <meta
           property="description"
           content="Make every hour count, built for iOS"
         />
         <meta property="og:site_name" content="8760 App" />
-        <meta property="og:image" content="/ogimage.ong"></meta>
+        <meta
+          property="og:image"
+          content="https://8760app.com/ogimage.png"
+        ></meta>
         <meta property="og:author" content="Adam Towers" />
         <meta name="twitter:card" content="summary" />
         <meta property="twitter:site" content="@adamtowerz" />
